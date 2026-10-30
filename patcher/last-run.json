@@ -1,0 +1,119 @@
+﻿{
+    "startedUTC":  "2026-10-29T16:41:23.3700371Z",
+    "state":  "started-game-left-running",
+    "gamePath":  "D:\\userfile\\Downloads\\technika\\Client.exe",
+    "processId":  9100,
+    "verifySeconds":  0,
+    "patches":  [
+                    "shell key-check continuation after exact byte checks",
+                    "body validation success after final loader stage",
+                    "real adapter buffer enlarged from 648 to 65536 bytes",
+                    "runtime shell watchdog key-check success with invocation counter",
+                    "Watcher1 heartbeat timeout fatal branch bypass with expired-timer counter",
+                    "native free-play mode for display, start eligibility and debit"
+                ],
+    "windows":  [
+                    {
+                        "handle":  4723382,
+                        "thread":  50328,
+                        "title":  "D3DProxyWindow",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1250422,
+                        "thread":  17728,
+                        "title":  "ClientApp",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  3871810,
+                        "thread":  41916,
+                        "title":  "",
+                        "children":  [
+                                         "OK",
+                                         "Cancel"
+                                     ],
+                        "controls":  [
+                                         {
+                                             "handle":  5051440,
+                                             "id":  1,
+                                             "text":  "OK",
+                                             "className":  "Button"
+                                         },
+                                         {
+                                             "handle":  19402392,
+                                             "id":  2,
+                                             "text":  "Cancel",
+                                             "className":  "Button"
+                                         }
+                                     ]
+                    },
+                    {
+                        "handle":  2626698,
+                        "thread":  50328,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  5182734,
+                        "thread":  17728,
+                        "title":  "MSCTFIME UI",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  2425298,
+                        "thread":  17728,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1381504,
+                        "thread":  41916,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    }
+                ],
+    "error":  null,
+    "sourceSHA256":  "9f7ec04c6abc9542e247dbe33bec3f8f472b885047e69d970650f7b7d5565925",
+    "freePlay":  true,
+    "updatedUTC":  "2026-10-29T16:41:38.0859400Z",
+    "periodicKeyCheckCalls":  0,
+    "watcher":  {
+                    "ignoredTimeouts":  0,
+                    "objectAddress":  364772964,
+                    "elapsedMs":  9967,
+                    "limitMs":  600000
+                },
+    "ownedProcessLeftRunning":  true,
+    "originalFileUnchanged":  true
+}

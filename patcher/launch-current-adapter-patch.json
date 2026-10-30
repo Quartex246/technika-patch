@@ -1,0 +1,17 @@
+﻿{
+    "scope":  "Use a larger real GetAdaptersInfo buffer; no MAC or network identity is fabricated",
+    "changes":  [
+                    {
+                        "address":  "0x5a87b0",
+                        "oldBytes":  648,
+                        "newBytes":  65536,
+                        "previousProtection":  64
+                    },
+                    {
+                        "address":  "0x5a87c9",
+                        "oldBytes":  648,
+                        "newBytes":  65536,
+                        "previousProtection":  64
+                    }
+                ]
+}

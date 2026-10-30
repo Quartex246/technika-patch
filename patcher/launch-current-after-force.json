@@ -1,0 +1,130 @@
+﻿{
+    "state":  "alive-after-runtime-experiment",
+    "experiment":  "skip-dog-checks",
+    "intentionalHaltRequested":  true,
+    "windows":  [
+                    {
+                        "handle":  4723382,
+                        "thread":  50328,
+                        "title":  "D3DProxyWindow",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1250422,
+                        "thread":  17728,
+                        "title":  "ClientApp",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  3871810,
+                        "thread":  41916,
+                        "title":  "",
+                        "children":  [
+                                         "OK",
+                                         "Cancel"
+                                     ],
+                        "controls":  [
+                                         {
+                                             "handle":  5051440,
+                                             "id":  1,
+                                             "text":  "OK",
+                                             "className":  "Button"
+                                         },
+                                         {
+                                             "handle":  19402392,
+                                             "id":  2,
+                                             "text":  "Cancel",
+                                             "className":  "Button"
+                                         }
+                                     ]
+                    },
+                    {
+                        "handle":  2626698,
+                        "thread":  50328,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  5182734,
+                        "thread":  17728,
+                        "title":  "MSCTFIME UI",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  2425298,
+                        "thread":  17728,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1381504,
+                        "thread":  41916,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    }
+                ],
+    "modules":  [
+                    {
+                        "ModuleName":  "Client.exe",
+                        "FileName":  "D:\\userfile\\Downloads\\technika\\Client.exe"
+                    },
+                    {
+                        "ModuleName":  "ntdll.dll",
+                        "FileName":  "C:\\WINDOWS\\SYSTEM32\\ntdll.dll"
+                    },
+                    {
+                        "ModuleName":  "wow64.dll",
+                        "FileName":  "C:\\WINDOWS\\System32\\wow64.dll"
+                    },
+                    {
+                        "ModuleName":  "wow64base.dll",
+                        "FileName":  "C:\\WINDOWS\\System32\\wow64base.dll"
+                    },
+                    {
+                        "ModuleName":  "wow64win.dll",
+                        "FileName":  "C:\\WINDOWS\\System32\\wow64win.dll"
+                    },
+                    {
+                        "ModuleName":  "wow64con.dll",
+                        "FileName":  "C:\\WINDOWS\\System32\\wow64con.dll"
+                    },
+                    {
+                        "ModuleName":  "wow64cpu.dll",
+                        "FileName":  "C:\\WINDOWS\\System32\\wow64cpu.dll"
+                    },
+                    {
+                        "ModuleName":  "klhkum.{113.0.16.0}.{DE915E11-58BA-4ABB-A079-957C0E7493E3}.dll",
+                        "FileName":  "GlobalRoot\\Device\\HarddiskVolume5\\Program Files (x86)\\Common Files\\Kaspersky Lab\\K4W-21-20\\klhk\\klhk_x64\\klhkum.{113.0.16.0}.{DE915E11-58BA-4ABB-A079-957C0E7493E3}.dll"
+                    }
+                ]
+}

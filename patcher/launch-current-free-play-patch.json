@@ -1,0 +1,8 @@
+﻿{
+    "mode":  "native-free-play",
+    "address":  "0x412370",
+    "original":  "55-8B-EC-51-89-4D",
+    "replacement":  "B8-01-00-00-00-C3",
+    "previousProtection":  64,
+    "scope":  "Built-in free-play mode for display, credit checks and debit; no fabricated coins"
+}

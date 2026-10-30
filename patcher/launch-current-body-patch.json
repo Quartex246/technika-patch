@@ -1,0 +1,8 @@
+﻿{
+    "scope":  "Runtime-only body verification experiment after final loader terminal",
+    "address":  "0x618790",
+    "original":  "55-8B-EC-83-EC-54",
+    "replacement":  "B8-01-00-00-00-C3",
+    "previousProtection":  64,
+    "deviceIdentifier":  "left at default zero; no invented dongle output"
+}

@@ -1,0 +1,91 @@
+﻿{
+    "scope":  "Owned launcher process",
+    "processId":  9100,
+    "windows":  [
+                    {
+                        "handle":  2561162,
+                        "thread":  17728,
+                        "title":  "Error",
+                        "children":  [
+                                         "确定",
+                                         "No Correct Hardware Dog Found"
+                                     ],
+                        "controls":  [
+                                         {
+                                             "handle":  8917820,
+                                             "id":  2,
+                                             "text":  "确定",
+                                             "className":  "Button"
+                                         },
+                                         {
+                                             "handle":  1708798,
+                                             "id":  20,
+                                             "text":  "",
+                                             "className":  "Static"
+                                         },
+                                         {
+                                             "handle":  5440028,
+                                             "id":  65535,
+                                             "text":  "No Correct Hardware Dog Found",
+                                             "className":  "Static"
+                                         }
+                                     ]
+                    },
+                    {
+                        "handle":  3871810,
+                        "thread":  41916,
+                        "title":  "",
+                        "children":  [
+                                         "OK",
+                                         "Cancel"
+                                     ],
+                        "controls":  [
+                                         {
+                                             "handle":  5051440,
+                                             "id":  1,
+                                             "text":  "OK",
+                                             "className":  "Button"
+                                         },
+                                         {
+                                             "handle":  19402392,
+                                             "id":  2,
+                                             "text":  "Cancel",
+                                             "className":  "Button"
+                                         }
+                                     ]
+                    },
+                    {
+                        "handle":  8917498,
+                        "thread":  17728,
+                        "title":  "MSCTFIME UI",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1250672,
+                        "thread":  17728,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    },
+                    {
+                        "handle":  1381504,
+                        "thread":  41916,
+                        "title":  "Default IME",
+                        "children":  [
+
+                                     ],
+                        "controls":  [
+
+                                     ]
+                    }
+                ]
+}

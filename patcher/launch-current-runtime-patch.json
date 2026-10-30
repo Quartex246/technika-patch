@@ -1,0 +1,11 @@
+﻿{
+    "status":  "runtime-experiment-not-a-file-patch",
+    "experiment":  "skip-dog-checks",
+    "processId":  9100,
+    "returnSite":  "0xf2c01ff",
+    "trampoline":  "0x119f0000",
+    "originalBytes":  "B9-14-00-00-00",
+    "temporaryRedirect":  "E9-FC-FD-72-02",
+    "trampolineBytes":  "C7-05-FF-01-2C-0F-B9-14-00-00-C6-05-03-02-2C-0F-00-C7-05-2C-11-2B-0F-10-15-2B-0F-8B-75-0C-BF-0A-00-00-00-BB-04-00-00-00-E9-D4-ED-8C-FD",
+    "previousProtection":  64
+}

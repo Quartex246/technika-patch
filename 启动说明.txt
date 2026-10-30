@@ -1,0 +1,16 @@
+双击 Start-Technika.exe 启动游戏。
+
+默认启用游戏原生 FREE PLAY，无需投币。需要恢复投币模式时，将 patcher\game-settings.json 中的 freePlay 改为 false，再重启游戏。
+
+请把 patcher 文件夹与 Start-Technika.exe 一起保留在当前游戏目录。
+启动器会自动应用已经验证的内存补丁，并处理当前电脑的网卡缓冲区兼容问题。
+同时处理保护壳运行期间的定时加密狗检查，避免进入游戏后再次因该检查而退出。
+同时处理 Watcher1 十分钟心跳超时引起的 code 13 退出。
+启动成功后游戏会保持运行。直接打开原 Client.exe 仍会执行原始加密狗检查。
+
+已实测：解除保护壳和主体两处授权阻断，修复本机多网卡导致的字符串越界，在零余额时显示 FREE PLAY 和 Touch to Start。
+
+启动失败时查看 patcher\last-run.json。
+定时检查补丁的地址与调用计数位置记录在 patcher\launch-current-periodic-key-patch.json。
+Watcher 心跳补丁和超时计数位置记录在 patcher\launch-current-watcher-patch.json。
+本补丁只支持当前 Client.exe 版本。完整游玩、触摸输入、联网及所有歌曲视频尚未验证。

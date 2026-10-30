@@ -1,0 +1,11 @@
+﻿{
+    "processId":  9100,
+    "scope":  "Runtime shell watchdog key-check returns its success status; wait/event lifecycle retained",
+    "address":  "0xF2C2D20",
+    "original":  "55-8B-EC-83-EC-10",
+    "replacement":  "E9-DB-52-73-02-90",
+    "stubAddress":  295665664,
+    "stubBytes":  "FF-05-00-81-9F-11-33-C0-C3",
+    "counterAddress":  295665920,
+    "previousProtection":  64
+}
